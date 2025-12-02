@@ -37,6 +37,5 @@ public class conditions {
             case "tue" -> System.out.println("Day 2");
             case "Wed" -> System.out.println("Day 3");
         }
-
     }
 }
