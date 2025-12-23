@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10d1485d-6962-4462-b004-4b9de450a3f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DAY5/arrayNstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY6/MethodsNScope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "Application.Demo.executor": "Run",
     "Application.FrameDemo.executor": "Run",
     "Application.Loops.executor": "Run",
+    "Application.MethodsNScope.executor": "Run",
     "Application.arrayNstrings.executor": "Run",
     "Application.conditions.executor": "Run",
     "Application.datatypes.executor": "Run",
@@ -55,7 +56,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="TaskManager">
