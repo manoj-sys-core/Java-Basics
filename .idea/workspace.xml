@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10d1485d-6962-4462-b004-4b9de450a3f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DAY6/MethodsNScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY10/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY10/jsonD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAY10/serialziation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Core Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Core Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY7/AccessSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY7/AccessSpec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY7/FStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY7/FStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY7/OOPPart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY7/OOPPart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY8/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY8/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY8/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY8/Classes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY8/InterfaceTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY8/InterfaceTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY8/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY8/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY8/SuperKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY8/SuperKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY9/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY9/Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY9/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY9/Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY9/Hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY9/Hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY9/Treemap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY9/Treemap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAY9/hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAY9/hashmap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +66,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstract.executor": "Run",
+    "Application.AccessSpec.executor": "Run",
+    "Application.Arraylist.executor": "Run",
+    "Application.Classes.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Exceptions.executor": "Run",
+    "Application.FStudent.executor": "Run",
+    "Application.Files.executor": "Run",
     "Application.FrameDemo.executor": "Run",
+    "Application.Hashset.executor": "Run",
+    "Application.InterfaceTask.executor": "Run",
+    "Application.Interfaces.executor": "Run",
     "Application.Loops.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MethodsNScope.executor": "Run",
+    "Application.OOPPart1.executor": "Run",
+    "Application.SuperKey.executor": "Run",
+    "Application.Treemap.executor": "Run",
     "Application.arrayNstrings.executor": "Run",
     "Application.conditions.executor": "Run",
     "Application.datatypes.executor": "Run",
+    "Application.hashmap.executor": "Run",
+    "Application.jsonD.executor": "Run",
     "Application.recap.executor": "Run",
+    "Application.serialziation.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
