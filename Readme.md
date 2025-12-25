@@ -90,4 +90,4 @@ Covers Core Java concepts with explanations, examples, and best practices.
 ## 📬 Contact
 **Manoj S**  
 📧 Email: manojcs6317@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/manoj-s-corex7
+🔗 LinkedIn: https://www.linkedin.com/in/manoj-s-x7
