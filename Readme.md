@@ -1,58 +1,93 @@
-# Java Core Learning Journey
+# Java Core Learning Journey 🚀
 
-*A simple roadmap as I learn Java basics until I’m ready for Spring & Spring Boot.*
+*A structured 10-day journey building strong Java fundamentals — preparing for Spring & Spring Boot.*
+
+---
 
 ## 🎯 Goal
-Build strong Java fundamentals — OOP, Collections, Exceptions, Streams, and basic tools — to confidently move into Spring and Spring Boot.
+To master **Core Java fundamentals** including OOP, Collections, Exception Handling, File Handling, and best practices, so I can confidently move into **Spring Framework and Spring Boot**.
 
 ---
 
-## 📘 What this repo contains
-- Short notes for each topic  
-- Practice programs  
-- Mini-projects for applying concepts  
-- Progress tracking  
+## 📘 Java Core Notes (PDF)
+
+📄 **Beginner to Intermediate Java Programming Notes**  
+Covers Core Java concepts with explanations, examples, and best practices.
+
+👉 **[Click here to view & download the PDF](assets/JAVA_Notes.pdf)**
 
 ---
 
-## 🛣️ Roadmap (Quick Overview)
+## 📚 Topics Covered
 
-### **Phase 1 — Basics**
-- Syntax, variables, data types  
-- Control flow (if, loops, switch)  
-- Methods, arrays, packages  
+### 🧱 Java Basics
+- Java introduction & program structure  
+- Input / Output using `Scanner`  
+- Data types & type casting  
+- `final` keyword  
+- Control structures (`if`, `switch`)  
+- Loops & pattern programming  
 
-### **Phase 2 — OOP**
-- Classes & Objects  
-- Constructors, static  
-- Inheritance, polymorphism  
-- Interfaces & abstraction  
+### 📦 Arrays & Strings
+- Arrays & enhanced for loop  
+- String immutability  
+- Common String methods  
+- String iteration  
+
+### 🧠 Methods & Scope
+- Methods with & without return values  
+- Method overloading  
+- Variable scope & shadowing  
+
+### 🧩 Object-Oriented Programming (OOP)
+- Classes & objects  
+- Constructors & `this` keyword  
 - Encapsulation & access modifiers  
+- Inheritance & `super` keyword  
+- Method overriding  
+- Abstraction (abstract classes)  
+- Interfaces & multiple inheritance  
 
-### **Phase 3 — Core Java**
-- Collections (List, Set, Map)  
-- Generics  
-- Exceptions & File I/O  
-- Lambdas & Streams  
-- Intro to Threads & Concurrency  
+### 📂 Collections Framework
+- Collection hierarchy  
+- `ArrayList`, `HashSet`, `HashMap`, `TreeMap`  
+- Generics & iteration  
 
-### **Phase 4 — Spring Preparation**
-- Maven basics  
-- JUnit testing  
-- Design patterns used in Spring  
-- Simple JDBC CRUD project  
+### ⚠️ Exception Handling
+- Try–Catch–Finally  
+- Custom exceptions  
+
+### 📁 File Handling
+- Reading & writing files  
+- Working with JSON  
+- Serialization  
+
+### ✅ Best Practices
+- Naming conventions  
+- Code organization  
+- Memory management  
+- OOP design guidelines  
 
 ---
 
 ## ✔️ Spring-Ready Checklist
-- Strong OOP understanding  
-- Comfortable with Collections & Streams  
-- Know basic Maven  
-- Able to write simple CRUD logic  
-- Can write basic JUnit tests  
+- ✅ Strong OOP fundamentals  
+- ✅ Comfortable with Collections & Generics  
+- ✅ Clear understanding of exceptions & file handling  
+- ⏳ Maven & JUnit (next step)  
+- ⏳ JDBC CRUD project  
+
+---
+
+## 🛣️ Next Steps
+- Maven basics  
+- JUnit testing  
+- JDBC mini-project  
+- Spring Core → Spring Boot  
 
 ---
 
 ## 📬 Contact
 **Manoj S**  
-🔗 LinkedIn: www.linkedin.com/in/manoj-s-corex7
+📧 Email: manojcs6317@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/manoj-s-corex7
